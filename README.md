@@ -17,6 +17,6 @@ To run the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/T-RB/sentiment_analyzer.git
+   git clone https://github.com/T-RB/sentiment-analyzer.git
 
 ## Live Demo - Contact Creator For URL Link
